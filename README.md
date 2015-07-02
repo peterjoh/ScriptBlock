@@ -1,2 +1,3 @@
 # ScriptBlock
-A simple PowerShell script for downloading and blocking large ranges of IP adresses in the Windows Firewall
+A simple PowerShell script for downloading and blocking large ranges of IP adresses in the Windows Firewall.
+Run with Admin priviligies.
